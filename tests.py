@@ -1,4 +1,5 @@
 import unittest
+from app import fatorial
 
 class TestFatorial(unittest.TestCase):
 
